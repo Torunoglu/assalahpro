@@ -1,0 +1,6 @@
+Duvar kağıtları (As Salah Pro) — 19.10.2026
+Bu klasör GitHub sayfasının (torunoglu.github.io/assalahpro) içine "duvar" adıyla yüklenir.
+- liste.json : uygulamanın okuduğu liste (kategori + resim kimlikleri). Yeni resim eklenince buraya da eklenir; "s" sayısı 1 artırılır.
+- b/ : telefon boyutu (1440x3200 JPEG), dokununca iner.
+- k/ : küçük önizleme (270x600 WebP), listede görünür.
+Kaynak: Unsplash (ücretsiz lisans). Pexels kullanılmaz. İçinde insan olan resim konmaz.
